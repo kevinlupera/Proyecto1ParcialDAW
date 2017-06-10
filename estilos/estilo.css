@@ -123,3 +123,27 @@ div.pie-fin{
     border:1px solid #DBE1EB;
     border-radius: 4px;
 } 
+
+#contenedor{
+    display: inline-block;
+    margin-top: 20px;
+    width: 74%;
+    height: 600px;
+    box-shadow: 0px 2px 3px gray;
+    margin-bottom: 0px;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+#barraLateral{
+    margin-top: 20px;
+    display: inline-block;
+    width: 20%;
+    box-shadow: 0px 2px 3px gray;
+    position: absolute;
+    margin-right: 2%;
+}
+
+form{
+    margin: 30px;
+}
