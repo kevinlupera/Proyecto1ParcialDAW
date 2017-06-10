@@ -18,7 +18,7 @@ and open the template in the editor.
         <main>
             <section class="uno">
                 <div class="principal">
-                    <p>Consigue los mejores productos al menor costo.</p>
+                    <h2><i>"Consigue los mejores productos al menor costo"</i></h2>
                     <img src="" alt=""/>
                 </div>
             </section>

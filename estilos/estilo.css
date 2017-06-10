@@ -9,13 +9,6 @@ and open the template in the editor.
 */
 
 /*selector universal*/
-*{
-    font:Arial;
-    margin: 2px;
-    border: 2px;
-    padding: 2px;
-}
-
 .logo{
     text-align: center;
 }
@@ -30,8 +23,10 @@ body {
 	line-height: 1.5em;
 }
 .header, .nav, h1{
-    background-color: lightcyan;
+    background-color: white;
     display:block;
+    margin: 0;
+    padding-top: 5;
 }
 .item{
     background-color: #4CAF50;
@@ -119,14 +114,12 @@ div.pie-fin{
     background-color: #3e8e41;
 }
 
-.principal{
-    background-color: lightcyan;
-}
-.secundaria{
-    background-color: darkblue;
+.principal,secundaria{
+    background-color: white;
+    text-align: center;
 }
 
 .combo{
-	border:1px solid #DBE1EB;
-        border-radius: 4px;
+    border:1px solid #DBE1EB;
+    border-radius: 4px;
 } 
