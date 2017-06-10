@@ -15,7 +15,7 @@ and open the template in the editor.
                 </div>
               </div>
                 <a id="inicio" href="index.php" class="item">Inicio</a>
-                <a id="login" href="login/login.php" class="item">Login</a>
+                <a id="login" href="login.php" class="item">Login</a>
                 <a id="cesta" href="cesta.php" class="item">Cesta</a>
                 <a id="ventas" href="ventas.php" class="item">Productos</a>
                 <a id="facturacion" href="facturacion.php" class="item">Facturacion</a>

@@ -9,7 +9,7 @@ and open the template in the editor.
 <meta name="keywords" content="Tienda online, Venta">
 <link rel="shortcut icon" href="imagenes/favicon.ico"/>
 <link rel="stylesheet" href="estilos/estilo.css"/>   
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
     h1{
         font-family:verdana;
