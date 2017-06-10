@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php include("codigos/header.php")?>
         <?php include("codigos/nav.php")?>
         <?php
-        // put your code herea
+        // put your code hereaasdasdsad
         ?>
         <?php include("codigos/footer.php")?>
     </body>

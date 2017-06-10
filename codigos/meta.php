@@ -7,8 +7,9 @@ and open the template in the editor.
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="Tienda online, Venta">
-<link rel="shortcut icon" href="favicon.ico"/>
+<link rel="shortcut icon" href="imagenes/favicon.ico"/>
 <link rel="stylesheet" href="estilos/estilos.css"/>   
+<meta name="theme-color" content="#ffffff">
 <style type="text/css">
     h1{
         font-family:verdana;

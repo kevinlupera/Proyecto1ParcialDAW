@@ -7,7 +7,9 @@ and open the template in the editor.
 <html lang="es">
     <head>
         <title></title>
+        
         <?php include("codigos/meta.php")?>
+
     </head>
     <body class="inicio">
         <?php include("codigos/header.php")?>
