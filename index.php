@@ -34,13 +34,13 @@ and open the template in the editor.
             <!---controlRegistro.php?op=1&ca=r-->
             <form method="post" action="" onsubmit="return validacionFormularioRegistro()">
                 <label for="nombreUsuario">Nombre de usuario:</label><br/>
-                <input type="text" name="nombreUsuario" id="campoUsuario"/><br/>
+                <input type="text" class="combo" name="nombreUsuario" id="campoUsuario"/><br/>
                 <label for="correo"> E-mail:</label><br/>
-                <input type="email" name="correo" id="campoEmail"><br/>
+                <input type="email" class="combo" name="correo" id="campoEmail"><br/>
                 <label for="claveUsuario">Contraseña de usuario:</label><br/>
-                <input type="password" name="claveUsuario" id="campoContrasenia"><br/>
+                <input type="password" class="combo" name="claveUsuario" id="campoContrasenia"><br/>
                 <label for="claveUsuario">Confirmar contraseña:</label><br/>
-                <input type="password" name="claveUsuario" id="campoContrasenia2"><br/>
+                <input type="password" class="combo" name="claveUsuario" id="campoContrasenia2"><br/>
                 <label for="radio">Genero:</label><br/>
                 <input type="radio" name="genero" value="hombre"><label>Masculino</label><br/>
                 <input type="radio" name="genero" value="mujer"><label>Femenino</label><br/>
