@@ -26,16 +26,23 @@ body {
     background-color: white;
     display:block;
     margin: 0;
-    padding-top: 5;
+    padding-top: 5px;
 }
+
 .item{
     background-color: #4CAF50;
     color: white;
-    padding: 16px;
+    padding: 10px;
     font-size: 16px;
     border: none;
     cursor: pointer;
     text-decoration:none;   
+    border-radius: 10px;
+}
+
+#login{
+    float: right;
+    margin-right: 2%;
 }
 #reportes{
     visibility: hidden;
@@ -67,10 +74,11 @@ div.pie-fin{
 .btDesplegable {
     background-color: #4CAF50;
     color: white;
-    padding: 16px;
+    padding: 10px;
     font-size: 16px;
     border: none;
     cursor: pointer;
+    border-radius: 10px;
 }
 
 .desplegar {
