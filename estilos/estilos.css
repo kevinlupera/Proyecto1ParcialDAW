@@ -1,0 +1,109 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 9, 2017, 12:44:38 PM
+    Author     : Yamilet Cisneros
+*/
+
+/*selector universal*/
+*{
+    font:Arial;
+    margin: 2px;
+    border: 2px;
+    padding: 2px;
+}
+h1{
+    background: lightcyan;
+}
+.logo{
+    text-align: center;
+}
+.item{
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+#reportes{
+    visibility: hidden;
+}
+#facturacion{
+    visibility: hidden;
+}
+#usuarios{
+    visibility: hidden;
+}
+footer{
+    display: block;
+}
+
+.inicio{
+    width: auto;
+    margin: 0 auto;
+    padding: 5px;
+    background: repeat-y;
+    box-shadow: 0 1px 2px rgba(0,0,0,.3);
+}
+/**/
+/*Boton Deslizable */
+.btDesplegable {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.desplegar {
+    position: relative;
+    display: inline-block;
+}
+
+.contenDesple {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.contenDesple a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+#form-registro{
+    margin: 30px;
+    width: 20%;
+    margin: auto;
+    padding: 40px;
+    box-shadow: 0px 3px 3px black;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+.contenDesple a:hover {background-color: #f1f1f1}
+
+.desplegar:hover .contenDesple {
+    display: block;
+}
+
+.desplegar:hover .btDesplegable {
+    background-color: #3e8e41;
+}
+
+.principal{
+    background-color: lightcyan;
+}
+.secundaria{
+    background-color: darkblue;
+}
