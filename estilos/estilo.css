@@ -31,8 +31,8 @@ h1{
 
 }
 .nav{
-    background: #007cff;
-
+    background: #24292e;
+    height: 50px;
     margin: 0;
     padding-top: 5px;
 }
@@ -65,12 +65,7 @@ h1{
 #usuarios{
     visibility: hidden;
 }
-#login{
-    float: right;
-    padding: 13px;
-    margin-right: 0%;
-    margin-bottom: 3%;
-}
+
 footer{
     display: block;
     background: black;
