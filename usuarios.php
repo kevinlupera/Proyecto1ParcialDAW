@@ -7,7 +7,7 @@ and open the template in the editor.
 <html lang="es">
     <head>
         <?php include("codigos/meta.php")?>
-        <title></title>
+        <title>ALLBUY-USUARIOS</title>
     </head>
     <body>
         <?php include("codigos/header.php")?>

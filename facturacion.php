@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <?php include("codigos/meta.php")?>
-        <title></title>
+        <title>ALLBUY-FACTURACION</title>
     </head>
     <body>
         <?php include("codigos/header.php")?>
