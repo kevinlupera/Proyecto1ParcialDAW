@@ -6,8 +6,8 @@ and open the template in the editor.
 -->
 <html lang="es">
     <head>
-        <title></title>
-        
+        <title>ALLBUY</title>
+
         <?php include("codigos/meta.php")?>
 
     </head>
